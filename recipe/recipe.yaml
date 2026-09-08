@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.2"
+  version: "0.2.0"
   python_min: "3.12"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/calliope-studio/calliope_studio-${{ version }}.tar.gz
-  sha256: ef6b0235c958c5244c2d07976d15649f620942f74563b9c5841e38d3b6e0757e
+  sha256: 5568bdb4002c2f8417e773a82fc2ddb2886cdb63f55e537b29e191bb4fc4debe
 
 build:
   number: 0
